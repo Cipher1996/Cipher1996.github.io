@@ -1,148 +1,35 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinpeng Ding"
-# 简介提取自 CV 的 Research Interests [cite: 31, 32]
-description              : "Ph.D. from HKUST. Research interests: Medical Image Processing, Computer Vision, Video Understanding, Multimodal Large Language Models."
-# TODO: 这里一定要改成你自己的 GitHub 仓库名，格式是 "用户名/仓库名"
-# 例如: "XinpengDing/XinpengDing.github.io"
-repository               : "XinpengDing/your-repo-name" 
-google_scholar_stats_use_cdn : true
+title: "Xinpeng Ding"
+description: "Ph.D. from HKUST. Research interests: Medical Image Processing, Computer Vision, Video Understanding, Multimodal Large Language Models."
+# 根据报错日志，我帮你自动修正了这里
+repository: "Cipher1996/Cipher1996.github.io"
+google_scholar_stats_use_cdn: true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# SEO Related (Optional - leave empty if not used)
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
 # Site Author
 author:
-  [cite_start]name               : "Xinpeng Ding" # [cite: 1]
-  avatar             : "images/profile.png" # 记得把自己照片上传到 images 文件夹并重命名为 profile.png
-  # 基于 CV 的当前职位 [cite: 19, 25]
-  bio                : "Post-doctoral Fellow at HKUST | Ph.D. in ECE"
-  [cite_start]location           : "Hong Kong SAR, China" # [cite: 24]
-  [cite_start]employer           : "The Hong Kong University of Science and Technology" # [cite: 19]
-  pubmed             : 
-  # TODO: 你的 CV 只有链接文字没有具体的 ID，请登录 Google Scholar 复制你的 ID
-  googlescholar      : "https://scholar.google.com/citations?user=YOUR_ID_HERE" 
-  [cite_start]email              : "xdingaf@connect.ust.hk" # 
-  researchgate       :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri                :
-  bitbucket          :
-  codepen            :
-  dribbble           :
-  flickr             :
-  facebook           :
-  foursquare         :
-  github             : "XinpengDing" # 假设你的 GitHub 用户名是这个，如果不是请修改
-  google_plus        :
-  keybase            :
-  instagram          :
-  impactstory        : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm             :
-  linkedin           : # e.g., "linkedin username"
-  dblp               : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid              : # e.g., "https://orcid.org/xxxx"
-  pinterest          :
-  soundcloud         :
-  stackoverflow      : # http://stackoverflow.com/users/123456/username
-  steam              :
-  tumblr             :
-  twitter            : 
-  vine               :
-  weibo              :
-  xing               :
-  youtube            :
-  wikipedia          :
+  name: "Xinpeng Ding"
+  avatar: "images/profile.png"
+  bio: "Post-doctoral Fellow at HKUST | Ph.D. in ECE"
+  location: "Hong Kong SAR, China"
+  employer: "The Hong Kong University of Science and Technology"
+  # 请替换下面的 ID
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID_HERE"
+  email: "xdingaf@connect.ust.hk"
+  github: "Cipher1996"
+  linkedin:
 
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .github
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
+# Build Settings
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
 permalink: /:categories/:title/
-[cite_start]timezone: Asia/Hong_Kong # 已根据你的位置修改为香港时间 [cite: 10]
-
+timezone: Asia/Hong_Kong
 
 # Plugins
 plugins:
@@ -151,7 +38,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
+# Whitelist
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -159,10 +47,12 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# Exclude list
+exclude:
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor
