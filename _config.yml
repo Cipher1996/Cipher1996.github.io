@@ -6,9 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Xinpeng Ding"
+# 简介提取自 CV 的 Research Interests [cite: 31, 32]
+description              : "Ph.D. from HKUST. Research interests: Medical Image Processing, Computer Vision, Video Understanding, Multimodal Large Language Models."
+# TODO: 这里一定要改成你自己的 GitHub 仓库名，格式是 "用户名/仓库名"
+# 例如: "XinpengDing/XinpengDing.github.io"
+repository               : "XinpengDing/your-repo-name" 
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,42 +24,44 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  [cite_start]name               : "Xinpeng Ding" # [cite: 1]
+  avatar             : "images/profile.png" # 记得把自己照片上传到 images 文件夹并重命名为 profile.png
+  # 基于 CV 的当前职位 [cite: 19, 25]
+  bio                : "Post-doctoral Fellow at HKUST | Ph.D. in ECE"
+  [cite_start]location           : "Hong Kong SAR, China" # [cite: 24]
+  [cite_start]employer           : "The Hong Kong University of Science and Technology" # [cite: 19]
+  pubmed             : 
+  # TODO: 你的 CV 只有链接文字没有具体的 ID，请登录 Google Scholar 复制你的 ID
+  googlescholar      : "https://scholar.google.com/citations?user=YOUR_ID_HERE" 
+  [cite_start]email              : "xdingaf@connect.ust.hk" # 
+  researchgate       :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri                :
+  bitbucket          :
+  codepen            :
+  dribbble           :
+  flickr             :
+  facebook           :
+  foursquare         :
+  github             : "XinpengDing" # 假设你的 GitHub 用户名是这个，如果不是请修改
+  google_plus        :
+  keybase            :
+  instagram          :
+  impactstory        : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm             :
+  linkedin           : # e.g., "linkedin username"
+  dblp               : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid              : # e.g., "https://orcid.org/xxxx"
+  pinterest          :
+  soundcloud         :
+  stackoverflow      : # http://stackoverflow.com/users/123456/username
+  steam              :
+  tumblr             :
+  twitter            : 
+  vine               :
+  weibo              :
+  xing               :
+  youtube            :
+  wikipedia          :
 
 
 # Reading Files
@@ -136,7 +141,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+[cite_start]timezone: Asia/Hong_Kong # 已根据你的位置修改为香港时间 [cite: 10]
 
 
 # Plugins
