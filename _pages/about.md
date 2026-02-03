@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Post-doctoral Fellow at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), working with [Prof. Xiaomeng Li](https://xmengli.github.io/). I obtained my Ph.D. degree from HKUST in July 2025, my Master's degree from Xidian University in 2021 (supervised by Prof. Xinbo Gao and Prof. Nannan Wang), and my Bachelor's degree from Xidian University in 2018.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. I have published papers at top-tier venues including CVPR, ICCV, ECCV, IJCV, TIP, TMI, and MICCAI.
+
+<a href='https://scholar.google.com/citations?user=aw7vu2AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Started my Post-doctoral position at HKUST!
+- *2025.07*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
+- *2025.02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2025!
+- *2024.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2024!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/hilmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xinpeng Ding**, Jinahua Han, Hang Xu, Wei Zhang and Xiaomeng Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*International Journal of Computer Vision (IJCV), 2025*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/bevllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**
+
+**Xinpeng Ding**, Jinahua Han, Hang Xu, Xiaodan Liang, Wei Zhang and Xiaomeng Li
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+</div>
+</div>
+
+- **Xinpeng Ding**, Jingwen Yang, Xiaowei Hu and Xiaomeng Li. Learning Shadow Correspondence for Video Shadow Detection. **ECCV 2022**
+- **Xinpeng Ding**, Nannan Wang, Shiwei Zhang, De Cheng, Xiaomeng Li, Ziyuan Huang, Mingqian Tang and Xinbo Gao. Support-Set Based Cross-Supervision for Video Grounding. **ICCV 2021**
+- Runhui Huang, **Xinpeng Ding** (Equal contribution), et al. Hires-llava: Restoring fragmentation input in high-resolution large vision-language models. **CVPR 2025**
+- Jiewen Yang, **Xinpeng Ding**, et al. GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation. **ICCV 2023 (Oral)**
+- Yi Li, Hualiang Wang, **Xinpeng Ding**, et al. Token Activation Map to Visually Explain Multimodal LLMs. **ICCV 2025 (Oral)**
+- **Xinpeng Ding**, Nannan Wang, et al. K-Farthest Crossover for Consistency-based Semi-supervised Temporal Action Localization. **TIP 2021**
+- **Xinpeng Ding**, Nannan Wang, et al. Exploring Language Hierarchy for Video Grounding. **TIP 2022**
+- **Xinpeng Ding**, Nannan Wang, et al. Group Feedback Capsule Network. **TIP 2020**
+- **Xinpeng Ding**, Nannan Wang, et al. Group Reconstruction and Max-Pooling Residual Capsule Network. **IJCAI 2019**
+- **Xinpeng Ding**, Xiaowei Xu and Xiaomeng Li. Less is More: Surgical Phase Recognition from Timestamp Supervision. **TMI 2023**
+- **Xinpeng Ding** and Xiaomeng Li. Exploring Segment-level Semantics for Online Phase Recognition from Surgical Videos. **TMI 2022**
+- **Xinpeng Ding**, et al. HiA: Towards Chinese Multimodal LLMs for Comparative High-Resolution Joint Diagnosis. **MICCAI 2024**
+- **Xinpeng Ding**, Ziwei Liu and Xiaomeng Li. Free Lunch for Surgical Video Understanding by Distilling Self-Supervisions. **MICCAI 2022**
+- **Xinpeng Ding**, Xiaowei Xu and Xiaomeng Li. SEDSkill: Surgical Events Driven Method for Skill Assessment from Thoracoscopic Surgical Videos. **MICCAI 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022 - 2023* HKUST Best Teaching Assistant Award
+- *2022 - 2023* HKUST RedBird Academic Excellence Award
+- *2021 - 2022* HKUST RedBird PhD Scholarship
+- *2021.06* Outstanding Postgraduates of Xidian University
+- *2019 - 2020* National Scholarship of China
+- *2018 - 2019* National Scholarship of China
+- *2016 - 2017* National Scholarship of China
+- *2017.05* ACM-ICPC Shaanxi, Bronze Award
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.07*, Ph.D. in Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. Xiaomeng Li
+- *2018.09 - 2021.07*, M.E. in Information and Communication Engineering, Xidian University. GPA: 90.05/100, Rank: 45/654. Advisors: Prof. Xinbo Gao, Prof. Nannan Wang
+- *2014.08 - 2018.07*, B.E. in Software Engineering, Xidian University. GPA: 90.67/100, Rank: 2/67
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Work Experience
+- *2025.08 - Present*, Post-doctoral Fellow, The Hong Kong University of Science and Technology
+- *2024.05 - 2025.05*, Research Intern, Huawei Noah's Ark Lab, Hong Kong
+- *2020.07 - 2021.07*, Research Intern, DAMO Academy, Alibaba Group, Hangzhou
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📋 Academic Services
+Reviewer for TPAMI, IJCV, TIP, TNNLS, TMI, TCSVT, TGRS, NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, etc.

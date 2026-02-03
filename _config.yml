@@ -2,8 +2,7 @@
 
 # Site Settings
 title: "Xinpeng Ding"
-description: "Ph.D. from HKUST. Research interests: Medical Image Processing, Computer Vision, Video Understanding, Multimodal Large Language Models."
-# 根据报错日志，我帮你自动修正了这里
+description: "Post-doctoral Fellow at HKUST. Research interests: Video Understanding, Multimodal Large Language Models, Computer Vision, Medical Image Processing."
 repository: "Cipher1996/Cipher1996.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -19,8 +18,7 @@ author:
   bio: "Post-doctoral Fellow at HKUST | Ph.D. in ECE"
   location: "Hong Kong SAR, China"
   employer: "The Hong Kong University of Science and Technology"
-  # 请替换下面的 ID
-  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID_HERE"
+  googlescholar: "https://scholar.google.com/citations?user=aw7vu2AAAAAJ"
   email: "xdingaf@connect.ust.hk"
   github: "Cipher1996"
   linkedin:
