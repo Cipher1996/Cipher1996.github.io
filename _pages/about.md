@@ -11,41 +11,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Post-doctoral Fellow at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), working with [Prof. Xiaomeng Li](https://xmengli.github.io/). I obtained my Ph.D. degree from HKUST in July 2025, my Master's degree from Xidian University in 2021 (supervised by Prof. Xinbo Gao and Prof. Nannan Wang), and my Bachelor's degree from Xidian University in 2018.
+I am a Full Professor at [Xidian University](https://www.xidian.edu.cn/). I obtained my Bachelor's degree and Master's degree from Xidian University (supervised by Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en)) in 2018 and 2021. I obtained my Ph.D. degree from HKUST in 2025 (supervised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en)).
 
 My research interests include **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. I have published papers at top-tier venues including CVPR, ICCV, ECCV, IJCV, TIP, TMI, and MICCAI.
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Started my Post-doctoral position at HKUST!
+- *2026.02*: &nbsp;🎉🎉 Joined Xidian University !
 - *2025.07*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
-- *2025.02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2025!
-- *2024.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2024!
+<!-- - *2025.02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2025!
+- *2024.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2024! -->
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/hilmd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving**
-
-**Xinpeng Ding**, Jinahua Han, Hang Xu, Wei Zhang and Xiaomeng Li
-
-*International Journal of Computer Vision (IJCV), 2025*
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/bevllm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**
-
-**Xinpeng Ding**, Jinahua Han, Hang Xu, Xiaodan Liang, Wei Zhang and Xiaomeng Li
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
-</div>
-</div>
-
+- **Xinpeng Ding**, Jinahua Han, Hang Xu, Wei Zhang and Xiaomeng Li. HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving. **IJCV 2025**
+- **Xinpeng Ding**, Jinahua Han, Hang Xu, Xiaodan Liang, Wei Zhang and Xiaomeng Li. Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models. **CVPR 2024**
 - **Xinpeng Ding**, Jingwen Yang, Xiaowei Hu and Xiaomeng Li. Learning Shadow Correspondence for Video Shadow Detection. **ECCV 2022**
 - **Xinpeng Ding**, Nannan Wang, Shiwei Zhang, De Cheng, Xiaomeng Li, Ziyuan Huang, Mingqian Tang and Xinbo Gao. Support-Set Based Cross-Supervision for Video Grounding. **ICCV 2021**
 - Runhui Huang, **Xinpeng Ding** (Equal contribution), et al. Hires-llava: Restoring fragmentation input in high-resolution large vision-language models. **CVPR 2025**
@@ -77,7 +57,8 @@ My research interests include **Video Understanding**, **Multimodal Large Langua
 - *2014.08 - 2018.07*, B.E. in Software Engineering, Xidian University. GPA: 90.67/100, Rank: 2/67
 
 # 💼 Work Experience
-- *2025.08 - Present*, Post-doctoral Fellow, The Hong Kong University of Science and Technology
+- *2026.02 - Present*, Professor, Xidian University Hangzhou Institute of Technology, Hangzhou
+- *2025.08 - 2026.01*, Postdoctoral researcher, The Hong Kong University of Science and Technology, Hong Kong
 - *2024.05 - 2025.05*, Research Intern, Huawei Noah's Ark Lab, Hong Kong
 - *2020.07 - 2021.07*, Research Intern, DAMO Academy, Alibaba Group, Hangzhou
 
