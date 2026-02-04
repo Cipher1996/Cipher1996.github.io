@@ -14,12 +14,11 @@ baidu_site_verification:
 author:
   name: "Xinpeng Ding"
   avatar: "images/profile.png"
-  bio: "Professor at XDU Hangzhou Institute | Ph.D. in ECE"
-  location: "Hangzhou, China"
-  employer: "Xidian University Hangzhou Institute"
+  bio: "Professor at XDU"
+  employer: "Xidian University"
   googlescholar: "https://scholar.google.com/citations?hl=zh-CN&user=_tB9gGQAAAAJ&view_op=list_works"
   email: "xdingaf@connect.ust.hk"
-  github: "Cipher1996"
+  github: "https://github.com/Scipio1996"
   linkedin:
 
 # Build Settings
