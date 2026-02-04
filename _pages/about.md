@@ -14,7 +14,7 @@ redirect_from:
 
 ## Biography
 
-Dr. **Xinpeng Ding** is a Full Professor at [Xidian University](https://www.xidian.edu.cn/). He received his Bachelor's and Master's degrees from Xidian University in 2018 and 2021, respectively, under the supervision of Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en). He obtained his Ph.D. degree from HKUST in 2025, advised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en).
+Dr. **Xinpeng Ding** is a Professor at [Xidian University](https://www.xidian.edu.cn/). He received his Bachelor's and Master's degrees from Xidian University in 2018 and 2021, respectively, under the supervision of Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en). He obtained his Ph.D. degree from HKUST in 2025, advised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en).
 
 His research interests include **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. He has published papers at top-tier venues including CVPR, ICCV, ECCV, IJCV, TIP, TMI, and MICCAI.
 
