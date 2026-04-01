@@ -20,7 +20,12 @@ His research interests include **Video Understanding**, **Multimodal Large Langu
 
 
 # 🔥 News
+
+
+- *2026.02*: &nbsp;🎉🎉 2 papers accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Joined Xidian University !
+- *2026.01*: &nbsp;🎉🎉 2 papers accepted by ICLR 2026!
+- *2025.11*: &nbsp;🎉🎉 1 paper accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
 
 
