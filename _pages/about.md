@@ -16,8 +16,13 @@ redirect_from:
 
 Dr. **Xinpeng Ding** is a Professor at [Xidian University](https://www.xidian.edu.cn/). He received his Bachelor's and Master's degrees from Xidian University in 2018 and 2021, respectively, under the supervision of Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en). He obtained his Ph.D. degree from HKUST in 2025, advised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en).
 
-His research interests include **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. He has published papers at top-tier venues including IJCV,CVPR, ICCV, ECCV, ICML, ICLR, TIP, TMI, and etc.
+His research interests include **Embodied AI**, **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. He has published papers at top-tier venues including IJCV,CVPR, ICCV, ECCV, ICML, ICLR, TIP, TMI, and etc.
 
+<p style="font-size: 18px; font-weight: 700; color: #8B0000; background-color: #FFF5F5; padding: 10px 14px; border-left: 5px solid #8B0000; border-radius: 6px;">
+  🔥 Openings: I am recruiting undergraduate interns, Master's students, and Ph.D. students for 2027 admission.
+</p>
+
+Prospective undergraduate interns and students interested in embodied intelligence, multimodal large language models, video understanding, or medical AI are welcome to reach out.
 
 # 🔥 News
 
