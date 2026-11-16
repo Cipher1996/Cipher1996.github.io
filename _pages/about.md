@@ -26,7 +26,7 @@ Prospective undergraduate interns and students interested in embodied intelligen
 
 # 🔥 News
 
-- *2026.06*: &nbsp;🎉🎉 1 paper accepted by Neurips 2026!
+- *2026.06*: &nbsp;🎉🎉 2 papers accepted by Neurips 2026!
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted by ICML 2026!
 - *2026.02*: &nbsp;🎉🎉 2 papers accepted by CVPR 2026, with one selected as an Award Candidate!
 - *2026.02*: &nbsp;🎉🎉 Joined Xidian University !
