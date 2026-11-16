@@ -19,13 +19,14 @@ Dr. **Xinpeng Ding** is a Professor at [Xidian University](https://www.xidian.ed
 His research interests include **Embodied AI**, **Video Understanding**, **Multimodal Large Language Models**, **Computer Vision**, and **Medical Image Processing**. He has published papers at top-tier venues including IJCV,CVPR, ICCV, ECCV, ICML, ICLR, TIP, TMI, and etc.
 
 <p style="font-size: 18px; font-weight: 700; color: #8B0000; background-color: #FFF5F5; padding: 10px 14px; border-left: 5px solid #8B0000; border-radius: 6px;">
-  🔥 Openings: I am recruiting undergraduate interns, Master's students, and Ph.D. students for 2027 admission.
+  🔥 Openings: I am recruiting undergraduate interns.
 </p>
 
 Prospective undergraduate interns and students interested in embodied intelligence, multimodal large language models, video understanding, or medical AI are welcome to reach out.
 
 # 🔥 News
 
+- *2026.06*: &nbsp;🎉🎉 1 paper accepted by Neurips 2026!
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted by ICML 2026!
 - *2026.02*: &nbsp;🎉🎉 2 papers accepted by CVPR 2026, with one selected as an Award Candidate!
 - *2026.02*: &nbsp;🎉🎉 Joined Xidian University !
